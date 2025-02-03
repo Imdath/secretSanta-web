@@ -1,3 +1,5 @@
+Note : for the application to work, both frontend and backend should be running
+
 Steps to follow to run the frontend :
 
 Step 1:
